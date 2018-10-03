@@ -1,4 +1,5 @@
 <?php
+header('Access-Control-Allow-Origin: *');
 /**
  * This script mirrors metaweather API.
  * It offers two commands:
